@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiPrimerAplicacionAndorid</string>
+    <string name="activity_principal">Actividad Home</string>
+    <string name="activity_secundaria">Actividad secundaria </string>
+    <string name="text_intent">intent explicito</string>
+    <string name="text_url">url</string>
+    <string name="text_mapa">mapa</string>
+    <string name="text_llamada">llamada</string>
+    <string name="text_email">email</string>
+</resources>
